@@ -21,6 +21,52 @@ http://bbs.anzhi.com/forum.php?mod=viewthread&tid=9359272&fromuid=5526600
 12/19_AEMUI_5.0[修改最多的官方ROM]全功能_稳定流畅省电_列表动画_超强自定义|ATX
 http://bbs.anzhi.com/forum.php?mod=viewthread&tid=9464525&fromuid=5526600
 
+[01-23]AEMUI_6.0[修改最多的官方ROM]全功能_稳定流畅省电_列表动画_超强自定义|ATX
+http://bbs.anzhi.com/forum.php?mod=viewthread&tid=9534558&fromuid=5526600
+
+
+本帖最后由 ax0817 于 2015-3-19 10:36 编辑
+
+
+C8813Q
+by ax0817
+@ATX Team
+
+  Android版本	   4.1
+  适配机型	   c8813Q
+  ROM制作者	   ax0817      @ATX Team
+  发布时间	   2015.03.19
+  论坛支持	   http://bbs.anzhi.com 转载请自觉注明出处！
+  反馈提交	   由于回复过多，欢迎以点评的形式反馈至本贴
+  其他	   更多精彩及更新资讯可关注ax0817 
+   ATX团队 官方微博安智ATX团队
+
+
+基于官方最新B801 （EMUI 2.0）深度修改制作
+现如今基于官方修改最多的也是最深的第三方ROM
+为了和其他第三方ROM区分开来，故取名为AEMUI
+AEMUI_3.0[修改最多的官方ROM]全功能_稳定流畅省电_列表动画_超强自定义【ATX team】
+http://bbs.anzhi.com/forum.php?mod=viewthread&tid=9214775&fromuid=5526600
+
+AEMUI_4.0[修改最多的官方ROM]全功能_稳定流畅省电_列表动画_超强自定义【ATX team】
+http://bbs.anzhi.com/forum.php?mod=viewthread&tid=9359272&fromuid=5526600
+
+12/19_AEMUI_5.0[修改最多的官方ROM]全功能_稳定流畅省电_列表动画_超强自定义|ATX
+http://bbs.anzhi.com/forum.php?mod=viewthread&tid=9464525&fromuid=5526600
+
+[01-23]AEMUI_6.0[修改最多的官方ROM]全功能_稳定流畅省电_列表动画_超强自定义|ATX
+http://bbs.anzhi.com/forum.php?mod=viewthread&tid=9534558&fromuid=5526600
+复制代码
+
+AEMUI7.0更新：
+增加下拉农历
+修复图标过大影响美观的问题
+修复通话过程中偶尔锁屏报错的bug
+修复拨号偶尔出现黑屏的bug
+修复网速更新频率选择5秒时，网速停滞的bug
+修复弹出特效无法控制的bug
+其他一些问题修复
+
 AEMUI6.0更新：
 新增加状态栏网速双排（设置-扩展设置-信号烂-状态栏显示网速高级版）
 支持自定义单排网速，支持自定义网速颜色
